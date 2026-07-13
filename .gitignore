@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.idea/
+.env
+vector_db/*
+!vector_db/.gitkeep
+data/*.pdf
+results/*
+!results/1.PNG
+!results/2.PNG
+.DS_Store

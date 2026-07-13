@@ -1,0 +1,8 @@
+embedding_model: BAAI/bge-small-zh-v1.5
+vector_store_path: vector_db
+chunk_size: 500
+chunk_overlap: 100
+top_k: 4
+llm_provider: deepseek
+llm_model: deepseek-chat
+temperature: 0.2
